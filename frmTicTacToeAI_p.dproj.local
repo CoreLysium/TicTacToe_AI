@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/20 21:19:45.763.pas,C:\Users\CoreLysium\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\CoreLysium\Documents\RAD Studio\Projects\TicTacToe_AI\frmTicTacToeAI_u.pas</Transaction>
+    <Transaction>2021/07/20 21:19:45.763.dfm,C:\Users\CoreLysium\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\CoreLysium\Documents\RAD Studio\Projects\TicTacToe_AI\frmTicTacToeAI_u.dfm</Transaction>
+    <Transaction>2021/07/20 21:19:57.310.dproj,C:\Users\CoreLysium\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\CoreLysium\Documents\RAD Studio\Projects\TicTacToe_AI\frmTicTacToeAI_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
